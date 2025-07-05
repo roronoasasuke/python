@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "data":{
+        "login":{
+            "username": "goku",
+            "email": "DBZ@xyz.com",
+            "password": "123456"
+        },
+        "location": {
+            "country":"India",
+            "city":"tokyo",
+            "state":"ohio"
+        },
+        "anime": {
+            "action":"Dragon ball Z,Naruto",
+            "adventure" : "Dr Stone,One piece",
+            "psycho" : "Monster,Tomodachi game"
+        }
+    }
+}
